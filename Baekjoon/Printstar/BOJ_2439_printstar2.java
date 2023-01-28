@@ -7,7 +7,7 @@ public class BOJ_2439_printstar2 {
 		int N = Integer.parseInt(br.readLine());
 		
 		//static에서 non-static 메소드를 호출하는 방법 -> 객체 생성
-		Main_2439 mm = new Main_2439();
+		BOJ_2439_printstar2 mm = new BOJ_2439_printstar2();
 		mm.showStar(N);
 	}
 	

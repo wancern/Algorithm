@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Main_2448 {
+public class BOJ_2448_printstar11 {
 	static int[][] arr;
 	public static void main(String[] args) throws IOException{
 		

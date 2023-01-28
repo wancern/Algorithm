@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class KakaoMobility_1_3 {
+public class KM_1_3 {
     public static void main(String[] args) {
         int[] answer = new int[2];
         String s = "2021:04:12:16:08:35";

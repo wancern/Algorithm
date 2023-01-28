@@ -5,7 +5,7 @@
  **/
 import java.util.*;
 
-class KakaoMobility_1_2 {
+class KM_1_2 {
         public int solution(String[] id_list, int k) {
         int answer = 0;
         Map<String, Integer> hm = new HashMap<>();

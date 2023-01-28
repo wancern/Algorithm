@@ -5,7 +5,7 @@
 import java.util.*;
 import java.io.*;
 
-public class KakaoMobility_1 {
+public class KM_1_1 {
     public static void main(String[] args) throws IOException {
         StringBuilder sb = new StringBuilder();
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
