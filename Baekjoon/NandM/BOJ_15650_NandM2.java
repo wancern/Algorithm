@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class BOJ_15650_NandM2 {
 	static int N, M;
 	static StringBuilder sb;
 	static boolean[] visit;
