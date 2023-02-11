@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Printstar" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BOJ" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/15Algo_Study/week_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NandM" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
